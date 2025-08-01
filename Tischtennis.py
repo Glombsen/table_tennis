@@ -14,8 +14,6 @@ with open("./spieler.json") as f:
 with open("./games.json") as f:
     matches = json.loads(f.read())
 
-print(set(match["player_one"] for match in matches))
-print(set(match["player_two"] for match in matches))
 
 punkte = coll.defaultdict(int)
 spiele = coll.defaultdict(int)
