@@ -38,7 +38,7 @@ for match in matches:
     spiele[p2] += 1
     siege[winner] += 1
 
-history = create_match_statistic(None, pivot=True)
+history = create_match_statistic(pivot=True)
 
 df = pd.DataFrame(
     {
