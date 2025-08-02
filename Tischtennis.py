@@ -4,6 +4,8 @@ import streamlit as st
 import pandas as pd
 import json
 
+from helper import create_match_statistic
+
 st.set_page_config(
     page_title="Tischtennis",
     page_icon="🏓",
@@ -36,15 +38,27 @@ for match in matches:
     spiele[p2] += 1
     siege[winner] += 1
 
+history = create_match_statistic(None, pivot=True)
+
 df = pd.DataFrame(
     {
         "Spieler": list(spiele.keys()),
         "Spiele": [spiele[p] for p in spiele],
         "Siege": [siege[p] for p in spiele],
         "Punkte": [punkte[p] for p in spiele],
+        "Historie": [history[player].to_list() for player in list(spiele.keys())],
     }
 )
 
 df = df.sort_values(by="Punkte", ascending=False).reset_index(drop=True)
 
-st.dataframe(df, use_container_width=True, hide_index=True)
+st.dataframe(
+    df,
+    column_config={
+        "Historie": st.column_config.LineChartColumn(
+            y_min=0, y_max=30
+        )
+    },
+    use_container_width=True,
+    hide_index=True,
+)

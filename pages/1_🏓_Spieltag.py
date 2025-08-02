@@ -38,9 +38,9 @@ if st.session_state.hide:
             NUMBER_OF_COLUMNS = 3
             columns = st.columns(spec=NUMBER_OF_COLUMNS)
             items_per_col = len(players) // NUMBER_OF_COLUMNS
-            for i,col in enumerate(columns):
+            for i, col in enumerate(columns):
 
-                items_index_start = i*items_per_col
+                items_index_start = i * items_per_col
                 items_index_end = (
                     (i + 1) * items_per_col
                     if i + 1 != NUMBER_OF_COLUMNS
