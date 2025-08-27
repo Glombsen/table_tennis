@@ -1,0 +1,109 @@
+Markus 0 v 1 Vincent
+
+Diana 1 v 0 Markus
+
+Günni 1 v 0 Markus
+
+Günni 1 v 0 Vincent
+
+Markus 1 v 0 Vincent
+
+Steffi 0 v 1 Vincent
+Paul 0 v 1 Günni
+Paul 1 v 0 Diana
+
+Günni 1 v 0 Diana
+
+Vincent 0 v 1 Alex
+
+Markus 0 v 1 Alex
+
+Steffi 0 v 1 Rene
+
+Charlie 1 v 0 Rene
+
+Charlie 0 v 1 Alex
+
+Vincent 0 v 1 Alex
+
+Günni 1 v 0 Alex
+
+Günni 1 v 0 Steffi
+
+Alex 0 v 1 Diana
+
+Charlie 0 v 1 Stephan
+
+Charlie 1 v 0 Stephan
+
+Rene 0 v 1 Markus
+
+Günni 1 v 0 Alex
+
+Diana 0 v 1 Steffi
+
+Günni 1 v 0 Stephan
+
+Rene 0 v 1 Alex
+
+Günni 1 v 0 Paul
+
+Pierre 1 v 0 Stephan
+
+Markus 0 v 1 Stephan
+
+Alex 1 v 00 Steffi
+
+Charlie 0 v 1 Günni
+
+Diana 1 v 0 Markus
+
+Alex 1 v 0 Pierre
+
+Anje 0 v 1 Rene
+
+Stephan 0 v 1 Charlie
+
+Anje 0 v 1 Charlie
+
+Günni 0 v 1 Charlie
+
+Alex 1 v 0 Günni
+
+Rene 0 v 1 Diana
+
+Alex 1 v 0 Diana
+
+Charlie 1 v 0 Günni
+
+Alex 1 v 0 Rene
+
+Diana 1 v 0 Rene
+
+Charlie 1 v 0 Alex
+
+Charlie 1 v 0 Antje
+
+Charlie 1 v 0 Rene
+
+Paul 1 v 0 Steffi
+
+Günni 0 v 1 Vincent
+
+Alex 0 v 1 Paul
+
+Rene 0 v 1 Antje
+
+Stephan 0 v 1 Alex
+
+Markus 1 v 0 Günni
+
+Anje 0 v 1 Steffi
+
+Günni 0 v 1 Stephan
+
+Alex 0 v 1 Vincent
+
+Anje 0 v 1 Rene
+
+Günni 0 v 1 Steffi

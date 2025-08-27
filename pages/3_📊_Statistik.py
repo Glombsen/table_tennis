@@ -28,7 +28,7 @@ selected = event.selection.rows
 if "Spieler" in st.query_params:
     st.bar_chart(df, x="Datum", y="Siege")
 else:
-    line_df = df.pivot(index="Datum", columns="Spieler", values="Siege").fillna(0)
+    line_df = df.sort_values(by="Datum").pivot(index="Datum", columns="Spieler", values="Siege").fillna(0)
     st.line_chart(line_df)
 
 if selected:

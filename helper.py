@@ -45,6 +45,7 @@ def create_match_statistic(pivot=False):
 
     df = df.groupby(by=["date", "Spieler"]).size().reset_index(name="Siege")
     df = df.rename(columns={"date": "Datum"})
+    df["Datum"] = pd.to_datetime(df["Datum"], dayfirst=True)
     df = df.sort_values(by=["Datum", "Siege"], ascending=False).reset_index(drop=True)
     
     if pivot:

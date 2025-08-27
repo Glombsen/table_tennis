@@ -1,0 +1,149 @@
+Stephan 1 v 0 Alex
+
+Stephan 1 v 0 Günni
+
+Vincent 1 v 0 Stephan
+
+Paul 1 v 0 Steffi
+
+Alex 1 v 0 Günni
+
+Alex 1 v 0 Günni
+
+Alex 1 v 0 Steffi
+
+Paul 1 v 0 Steffi
+
+Paul 1 v 0 Steffi
+
+Alex 0 v 1 Vincent
+
+Paul 0 v 1 Steffi
+
+Alex 0 v 1 Günni
+
+Vincent 1 v 0 Günni
+
+Alex 0 v 1 Günni
+
+Stephan 0 v 1 Steffi
+
+Vincent 1 v 0 Günni
+
+Steffi 1 v 0 Günni
+
+Vincent 0 v 1 Günni
+
+Vincent 0 v 1 Günni
+
+Antje 1 v 0 Günni
+
+Paul 1 v 0 Günni
+
+Alex 1 v 0 Stephan
+
+Vincent 1 v 0 Günni
+
+Antje 1 v 0 Stephan
+
+Günni 1 v 0 Vincent
+
+Paul 1 v 0 Vincent
+Antje 1 v 0 Günni
+
+Louis 1 v 0 Günni
+
+Vincent 0 v 1 Stephan
+
+Alex 1 v 0 Paul
+
+Anje 0 v 1 Stephan
+
+Louis 0 v 1 Stephan
+
+Alex 0 v 1 Louis
+
+Alex 1 v 0 Steffi
+
+Alex 0 v 1 Günni
+
+Steffi 1 v 0 Vincent
+Anje 1 v 0 Vincent
+
+Paul 0 v 1 Stephan
+
+Vincent 1 v 0 Alex
+
+Vincent 1 v 0 Antje
+
+Vincent 0 v 1 Stephan
+
+Anje 0 v 1 Louis
+
+Pierre 0 v 1 Antje
+
+Paul 0 v 1 Alex
+
+Paul 1 v 0 Alex
+
+Pierre 0 v 1 Vincent
+
+Louis 1 v 0 Alex
+
+Stephan 0 v 1 Alex
+
+Louis 0 v 1 Steffi
+
+Louis 1 v 0 Pierre
+
+Vincent 1 v 0 Alex
+
+Günni 1 v 0 Alex
+
+Günni 1 v 0 Maria
+
+Stephan 1 v 0 Vincent
+
+Günni 0 v 1 Louis
+
+Alex 1 v 0 Steffi
+
+Günni 1 v 0 Stephan
+
+Vincent 0 v 1 Alex
+
+Vincent 0 v 1 Louis
+
+Alex 0 v 1 Louis
+
+Alex 0 v 1 Steffi
+
+Louis 0 v 1 Stephan
+
+Louis 0 v 1 Alex
+
+Vincent 0 v 1 Günni
+
+Vincent 1 v 0 Günni
+
+Paul 1 v 0 Steffi
+
+Alex 1 v 0 Pierre
+
+Alex 1 v 0 Vincent
+
+Günni 1 v 0 Alex
+
+Steffi 0 v 1 Louis
+Paul 1 v 0 Günni
+Alex 1 v 0 Günni
+
+Vincent 1 v 0 Maria
+
+Alex 1 v 0 Paul
+
+Stephan 1 v 0 Günni
+
+Vincent 1 v 0 Louis
+
+Alex 0 v 1 Louis

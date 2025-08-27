@@ -1,0 +1,145 @@
+Diana 0 1 Stephan
+
+Günni 0 1 Alex
+
+Vincent 0 1 Stephan
+
+Günni 1 0 Alex
+
+Günni 1 0 Alex
+
+Günni 0 1 Vincent
+
+Günni 1 0 Diana
+
+Vincent 1 Diana
+
+Vincent 1 Stephan
+
+Diana 1 0 Stephan
+
+Alex 0 1 Stephan
+
+Günni 0 1 Stephan
+
+Alex 0 1 Stephan
+
+Alex 1 0 Stephan
+
+Alex 0 1 Stephan
+
+Vincent 0 1 Stephan
+
+Pierre Pierre 1 0 Stephan
+
+Pierre Pierre 0 1 Vincent
+
+Stephan 0 1 Günni
+
+Pierre Pierre 0 1 Vincent
+
+Diana 0 1 Stephan
+
+Vincent 0 Alex
+
+Diana 0 1 Alex
+
+Diana 0 1 Günni
+
+Diana 0 1 Vincent
+
+Antje 0 1 Alex
+
+Antje 1 0 Alex
+
+Diana 1 0 Antje
+
+Vincent 1 Günni
+
+Diana 0 1 Günni
+
+Antje 1 0 Günni
+
+Diana 1 0 Vincent
+
+Diana 1 0 Alex
+
+Stephan 0 Alex
+
+Antje 1 0 Alex
+
+Stephan 1 Alex
+
+Stephan 0 Vincent
+
+Alex 1 0 Diana
+
+Günni 0 1 Stephan
+
+Günni 0 1 Diana
+
+Günni 1 0 Stephan
+
+Antje 0 1 Alex
+
+Günni 0 1 Vincent
+
+Antje 0 1 Alex
+
+Antje 0 1 Stephan
+
+Günni 1 0 Alex
+
+Vincent 1 Diana
+
+Alex 1 0 Diana
+
+Antje 1 0 Maria
+
+Diana 1 0 Alex
+
+Diana 0 1 Stephan
+
+Pierre Pierre 1 0 Antje
+
+Antje 0 1 Diana
+
+Günni 1 0 Diana
+
+Vincent 1 Antje
+
+Vincent 1 Diana
+
+Vincent 1 Maria
+
+Stephan 1 Günni
+
+Alex 1 0 Vincent
+
+Antje 1 0 Diana
+
+Vincent 0 Alex
+
+Diana 0 1 Alex
+
+Diana 0 1 Günni
+
+Alex 0 1 Günni
+
+Diana 0 1 Vincent
+
+Antje 0 1 Vincent
+
+Antje 0 1 Diana
+
+Pierre Pierre 1 0 Günni
+
+Alex 1 0 Stephan
+
+Diana 1 0 Stephan
+
+Günni 0 1 Stephan
+
+Günni 0 1 Vincent
+
+Pierre Pierre 1 0 Diana

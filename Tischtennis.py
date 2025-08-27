@@ -6,6 +6,16 @@ import json
 
 from helper import create_match_statistic
 
+# Initialize connection.
+#conn = st.connection("mysql", type="sql")
+
+# Perform query.
+#df = conn.query("SELECT * from mytable;", ttl=600)
+
+# Print results.
+#for row in df.itertuples():
+#    st.write(f"{row.name} has a :{row.pet}:")
+
 st.set_page_config(
     page_title="Tischtennis",
     page_icon="🏓",
@@ -39,6 +49,7 @@ for match in matches:
     siege[winner] += 1
 
 history = create_match_statistic(pivot=True)
+print(history)
 
 df = pd.DataFrame(
     {

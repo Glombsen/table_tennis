@@ -406,5 +406,961 @@
         "player_one": "Alex",
         "player_two": "Günni",
         "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Steffi",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Steffi",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Steffi",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Pierre Pierre",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Günni",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Steffi",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Robby",
+        "player_two": "Charlie",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Günni",
+        "player_two": "Charlie",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Charlie",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Rene",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Paul",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Charlie",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Günni",
+        "player_two": "Louis",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Charlie",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Paul",
+        "player_two": "Charlie",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Louis",
+        "player_two": "Antje",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Garten",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Markus",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Rene",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Louis",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Charlie",
+        "player_two": "Vincent",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Günni",
+        "player_two": "Louis",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Louis",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Günni",
+        "player_two": "Garten",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Günni",
+        "player_two": "Charlie",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Steffi",
+        "player_two": "Louis",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Rene",
+        "player_two": "Louis",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Markus",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Charlie",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Charlie",
+        "player_two": "Louis",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Louis",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Louis",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Alex",
+        "player_two": "Charlie",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Louis",
+        "player_two": "Vincent",
+        "win": "player_one"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Steffi",
+        "player_two": "Markus",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Antje",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Markus",
+        "win": "player_two"
+    },
+    {
+        "date": "05.08.2025",
+        "player_one": "Charlie",
+        "player_two": "Garten",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Pierre Pierre",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Pierre Pierre",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Pierre Pierre",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Antje",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Günni",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Günni",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Vincent",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Diana",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Maria",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Alex",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Pierre Pierre",
+        "player_two": "Antje",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Diana",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Antje",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Maria",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Stephan",
+        "player_two": "Günni",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Vincent",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Vincent",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Alex",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Günni",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Antje",
+        "player_two": "Diana",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Pierre Pierre",
+        "player_two": "Günni",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Alex",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Diana",
+        "player_two": "Stephan",
+        "win": "player_one"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Stephan",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Günni",
+        "player_two": "Vincent",
+        "win": "player_two"
+    },
+    {
+        "date": "12.08.2025",
+        "player_one": "Pierre Pierre",
+        "player_two": "Diana",
+        "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Markus", "player_two": "Vincent", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Diana", "player_two": "Markus", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Markus", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Markus", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Steffi", "player_two": "Vincent", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Paul", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Paul", "player_two": "Diana", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Diana", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Vincent", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Markus", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Steffi", "player_two": "Rene", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Rene", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Vincent", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Diana", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Rene", "player_two": "Markus", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Diana", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Rene", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Paul", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Pierre", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Markus", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Diana", "player_two": "Markus", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Pierre", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Anje", "player_two": "Rene", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Stephan", "player_two": "Charlie", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Anje", "player_two": "Charlie", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Charlie", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Rene", "player_two": "Diana", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Diana", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Rene", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Diana", "player_two": "Rene", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Antje", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Charlie", "player_two": "Rene", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Paul", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Vincent", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Paul", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Rene", "player_two": "Antje", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Stephan", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Markus", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "19.08.2025", "player_one": "Anje", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Alex", "player_two": "Vincent", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Anje", "player_two": "Rene", "win": "player_two"
+    },
+    {"date": "19.08.2025", "player_one": "Günni", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Stephan", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Stephan", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Vincent", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Stephan", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Steffi", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Antje", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Antje", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Günni", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Antje", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Paul", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Anje", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Louis", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Steffi", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Anje", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Antje", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Anje", "player_two": "Louis", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Pierre", "player_two": "Antje", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Pierre", "player_two": "Vincent", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Stephan", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Pierre", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Günni", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Günni", "player_two": "Maria", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Stephan", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Günni", "player_two": "Louis", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Günni", "player_two": "Stephan", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Louis", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Louis", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Steffi", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Stephan", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Louis", "player_two": "Alex", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Steffi", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Pierre", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Vincent", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Günni", "player_two": "Alex", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Steffi", "player_two": "Louis", "win": "player_two"
+    },
+    {"date": "26.08.2025", "player_one": "Paul", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Maria", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Paul", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Stephan", "player_two": "Günni", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Vincent", "player_two": "Louis", "win": "player_one"
+    },
+    {"date": "26.08.2025", "player_one": "Alex", "player_two": "Louis", "win": "player_two"
     }
 ]
