@@ -13,14 +13,14 @@ def create_match_statistic(pivot=False):
                 match_date = file.stem.split("_")[1]
                 match_days[match_date] = json.loads(f.read())
 
-    with open("./games.json") as f:
+    with open("./new_game.json") as f:
         matches = json.loads(f.read())
 
     df = pd.DataFrame().from_dict(matches)
 
 
     def get_winner(row):
-        return row[row["win"]]
+        return row["winner"]
     
     #def get_looser(row):
     #    if row["win"] == "player_one":
@@ -45,13 +45,13 @@ def create_match_statistic(pivot=False):
 
     df = df.groupby(by=["date", "Spieler"]).size().reset_index(name="Siege")
     df = df.rename(columns={"date": "Datum"})
-    df["Datum"] = pd.to_datetime(df["Datum"], dayfirst=True)
-    df = df.sort_values(by=["Datum", "Siege"], ascending=False).reset_index(drop=True)
+    df["date"] = pd.to_datetime(df["Datum"], dayfirst=True)
+    df = df.sort_values(by=["date", "Siege"], ascending=False).reset_index(drop=True)
     
     if pivot:
         with open("./spieler.json") as f:
             players = json.loads(f.read())
-        df = df.pivot(index="Datum", columns="Spieler", values="Siege")
+        df = df.pivot(index="date", columns="Spieler", values="Siege")
         
         for pl in players:
             if pl not in df:
@@ -62,10 +62,49 @@ def create_match_statistic(pivot=False):
 
 def get_player_statistic(player):
     stats = []
-    df = create_match_statistic()
-    df = df.loc[df["Spieler"] == player]
-    most_win = df[df["Siege"] == df["Siege"].max()].to_dict(orient="records")
+    with open("./new_game.json") as f:
+        matches = json.loads(f.read())
 
-    stats.append(f"Punkreichster Tag am {most_win[0]['Datum']} ({most_win[0]['Siege']})")
-    stats.append(f"Siegreichster Tag am {most_win[0]['Datum']} ({most_win[0]['Siege']})")
+    df = pd.DataFrame().from_dict(matches)
+
+    opponent_df = df.groupby(["winner", "looser"]).size().reset_index(name="w_counts")
+
+    most_win_df = df.groupby(["winner", "date"]).size().reset_index(name="w_counts")
+    most_points_df = df.groupby(["looser", "date"]).size().reset_index(name="l_counts")
+    most_points_df = pd.merge(
+        left=most_win_df,
+        right=most_points_df,
+        how="left",
+        left_on=["winner", "date"],
+        right_on=["looser", "date"],
+    )
+    most_points_df["points"] = most_points_df["w_counts"] + most_points_df["l_counts"]
+    most_points_df = most_points_df.fillna(0)
+    
+    most_points_df = most_points_df[(most_points_df["winner"] == player)]
+    most_points = most_points_df[
+        (most_points_df["points"] == most_points_df["points"].max())
+    ].to_dict(orient="records")
+    most_win_df = most_win_df[(most_win_df["winner"] == player)]
+    most_win = most_win_df[(most_win_df["w_counts"] == most_win_df["w_counts"].max())
+    ].to_dict(orient="records")
+
+    winner_df = opponent_df[(opponent_df["winner"] == player)]
+    winner = winner_df[
+        (winner_df["w_counts"] == winner_df["w_counts"].max())
+    ].to_dict(orient="records")
+
+    looser_df = opponent_df[(opponent_df["looser"] == player)]
+    looser = looser_df[(looser_df["w_counts"] == looser_df["w_counts"].max())].to_dict(
+        orient="records"
+    )
+    
+    stats.append(
+        f"Punkreichster Tag am {most_points[0]['date']} ({most_points[0]['points']})"
+    )
+    stats.append(
+        f"Siegreichster Tag am {most_win[0]['date']} ({most_win[0]['w_counts']})"
+    )
+    stats.append(f"Am meisten gegen {winner[0]['looser']} gewonnen")
+    stats.append(f"Am meisten gegen {looser[0]['winner']} verloren")
     return stats

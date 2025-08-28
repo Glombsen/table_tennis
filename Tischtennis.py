@@ -23,7 +23,7 @@ st.set_page_config(
 with open("./spieler.json") as f:
     players = json.loads(f.read())
 
-with open("./games.json") as f:
+with open("./new_game.json") as f:
     matches = json.loads(f.read())
 
 
@@ -35,21 +35,16 @@ for player in players:
     spiele[player] = 0
 
 for match in matches:
-    p1 = match["player_one"]
-    p2 = match["player_two"]
-    winner_key = match["win"]
+    p1 = match["winner"]
+    p2 = match["looser"]
 
-    winner = match[winner_key]
-    loser = p1 if winner == p2 else p2
-
-    punkte[winner] += 2
-    punkte[loser] += 1
+    punkte[match["winner"]] += 2
+    punkte[match["looser"]] += 1
     spiele[p1] += 1
     spiele[p2] += 1
-    siege[winner] += 1
+    siege[match["winner"]] += 1
 
 history = create_match_statistic(pivot=True)
-print(history)
 
 df = pd.DataFrame(
     {

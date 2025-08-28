@@ -15,7 +15,7 @@ if my_file.is_file():
 else:
     presence = []
 
-with open("./games.json") as f:
+with open("./new_game.json") as f:
     matches = json.loads(f.read())
 
 with open("./spieler.json") as f:
@@ -95,24 +95,22 @@ with st.form("new_match", clear_on_submit=True):
         matches.append(
             {
                 "date": today,
-                "player_one": player_one,
-                "player_two": player_two,
-                "win": "player_one",
+                "winner": player_one,
+                "looser": player_two,
             }
         )
-        with open("./games.json", "w+") as f:
+        with open("./new_game.json", "w+") as f:
             json.dump(matches, f, indent=4)
         st.rerun()
     if win_player_two:
         matches.append(
             {
                 "date": today,
-                "player_one": player_one,
-                "player_two": player_two,
-                "win": "player_two",
+                "winner": player_two,
+                "looser": player_one,
             }
         )
-        with open("./games.json", "w+") as f:
+        with open("./new_game.json", "w+") as f:
             json.dump(matches, f, indent=4)
         st.rerun()
 
@@ -121,9 +119,8 @@ for match in matches:
     if match["date"] == today:
         match_day.append(
             {
-                "Spieler 1": match["player_one"],
-                "Spieler 2": match["player_two"],
-                "Sieg": match[match["win"]],
+                "Sieg": match["winner"],
+                "Verloren": match["looser"],
             }
         )
 
