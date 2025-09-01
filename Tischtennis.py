@@ -65,6 +65,6 @@ st.dataframe(
             y_min=0, y_max=30
         )
     },
-    use_container_width=True,
+    width='stretch',
     hide_index=True,
 )

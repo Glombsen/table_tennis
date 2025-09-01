@@ -53,7 +53,7 @@ if st.session_state.hide:
                         active = True
                     col.toggle(player, key=f"presence_{player}", value=active)
             
-            save_presence = st.form_submit_button("Speichern", use_container_width=True)
+            save_presence = st.form_submit_button("Speichern", width='stretch')
 
             if save_presence:
                 presence = []
@@ -77,7 +77,7 @@ with st.form("new_match", clear_on_submit=True):
         )
     with col2:
         win_player_one = st.form_submit_button(
-            "Sieg Spieler 1", use_container_width=True
+            "Sieg Spieler 1", width='stretch'
         )
 
     col1, col2 = st.columns([3, 1], vertical_alignment="bottom")
@@ -88,7 +88,7 @@ with st.form("new_match", clear_on_submit=True):
         )
     with col2:
         win_player_two = st.form_submit_button(
-            "Sieg Spieler 2", use_container_width=True
+            "Sieg Spieler 2", width='stretch'
         )
     
     if win_player_one:
@@ -115,14 +115,18 @@ with st.form("new_match", clear_on_submit=True):
         st.rerun()
 
 match_day = []
-for match in matches:
-    if match["date"] == today:
-        match_day.append(
-            {
-                "Sieg": match["winner"],
-                "Verloren": match["looser"],
-            }
-        )
+df = pd.DataFrame().from_dict(matches)
+df = df[df["date"] == today]
+df = df.groupby("winner")["winner"].count().reset_index(name="Siege")
+df = df.sort_values(by="Siege", ascending=False).rename(columns={"winner": "Spieler"})
 
-df = pd.DataFrame.from_dict(match_day)
-st.dataframe(df, use_container_width=True, hide_index=True)
+for player in presence:
+    if player not in df["Spieler"].to_list():
+        new_row = {
+            "Spieler": player,
+            "Siege": 0,
+        }
+        df = pd.concat([df, pd.DataFrame([new_row])], ignore_index=True)
+
+
+st.dataframe(df, width='stretch', hide_index=True)
